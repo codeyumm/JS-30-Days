@@ -5,7 +5,7 @@ Welcome to the 30 Days of JavaScript Projects repository! This challenge involve
 ## Project List
 
 ### Day 1 - [Analog Clock](https://github.com/codeyumm/JS-30-Days/tree/main/Day-1-Clock)
-<img src="https://github.com/codeyumm/JS-30-Days/blob/main/Day-1-Clock/images/clock-thumbnail.png" width="600" height="400" />
+<img src="https://github.com/codeyumm/JS-30-Days/blob/main/Day-1-Clock/images/clock-thumbnail.png" width="800" height="400" />
 - Created analog clock with HTML, CSS and JS.
 
 
