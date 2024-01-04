@@ -1,0 +1,1 @@
+alert("Hello from script.js"); // to check the js fil
