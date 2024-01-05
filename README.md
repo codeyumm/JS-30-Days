@@ -8,6 +8,10 @@ Welcome to the 30 Days of JavaScript Projects repository! This challenge involve
 <img src="https://github.com/codeyumm/JS-30-Days/blob/main/Day-1-Clock/images/clock-thumbnail.png" width="800" height="400" />
 - Created analog clock with HTML, CSS and JS.
 
+### Day 2 - [Random Color Generator](https://github.com/codeyumm/JS-30-Days/tree/62eadde0eb45c8f689d8955fc9482e66973e8710/Day%202%20-%20Random%20Color%20Generator)
+<img src="https://github.com/codeyumm/JS-30-Days/blob/62eadde0eb45c8f689d8955fc9482e66973e8710/Day%202%20-%20Random%20Color%20Generator/images/thumbnail.png" width="800" height="400" />
+- Genrated random color with hex code each time user clicks on button
+- User can copy the color code by clicking on copy icon
 
 
 
