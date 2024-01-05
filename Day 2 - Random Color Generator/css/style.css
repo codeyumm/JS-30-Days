@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap');
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: lightpink;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container{
+    background-color: lightgrey;
+    width: 400px;
+    padding: 12px;
+    border: 1px solid black;
+    /* box-shadow: 6px 6px gray; */
+    border-radius: 12px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+}
+
+h1{
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+
+.btn{
+    padding: 6px 24px;
+    font-size: 18px;
+    border-radius: 12px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: gray;
+    transition: 0.2s linear;
+    color: whitesmoke;
+}
+
+.icon-copy{
+    height: 22px;
+    width: 22px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-left: 12px;
+    cursor: pointer;
+}
+
+.hex-code-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feedback-container{
+    margin-bottom: 200px;
+    display: none;
+}
+
+.feedback-container p{
+    background-color: black;
+    color: wheat;
+    padding: 4px 12px;
+}
+
+
+
+
+
+
+
