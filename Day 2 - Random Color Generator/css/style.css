@@ -75,6 +75,7 @@ h1{
 .feedback-container{
     margin-bottom: 200px;
     display: none;
+    transition: 0.5s ease-in-out;
 }
 
 .feedback-container p{

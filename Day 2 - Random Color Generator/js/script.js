@@ -14,12 +14,12 @@ window.onload = function() {
 
     // setting click listener on button
     btn.addEventListener('click', generateRandomColor);
+    btnCopy.addEventListener('click', copyColorCode);
 
     const hexValues = [0,1,2,3,4,5,6,7,8,9,'A','B','C','D','E','F'];
 
     // event handler function
     function generateRandomColor(){
-        
         
         var hexCode = "#";
 
@@ -37,7 +37,20 @@ window.onload = function() {
         // display hex code
         colorCode.innerHTML = hexCode;
 
-        // add to clipboard
+    }
+
+    // to copy to clipboard
+    function copyColorCode(){
+        let color = colorCode.innerHTML;
+        navigator.clipboard.writeText(color);
+        displayFeedback();
+    }
+
+    function displayFeedback(){
+        feedback.style.display = "block";
+        setTimeout(() => {
+            feedback.style.display = "none";
+        }, 1000)
     }
     
     //calling function when page gets load
