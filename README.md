@@ -14,6 +14,9 @@ Welcome to the 30 Days of JavaScript Projects repository! This challenge involve
 - User can copy the color code by clicking on copy icon
 
 ### Day 3 - [Digital Clock](https://github.com/codeyumm/JS-30-Days/tree/79667e54ac25a710f0d92aec12fb6eac22e17b84/Day%203%20-%20Digital%20clock)
+<img src="https://github.com/codeyumm/JS-30-Days/blob/6d9f6610c715a9d6adae4bff358b323e8b955e39/Day%203%20-%20Digital%20clock/images/thumbnail.png" width="800" height="400" />
+- Digital Clock created with JavaScript
+
 
 
 ## How to Use
