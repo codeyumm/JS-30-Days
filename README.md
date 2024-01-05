@@ -17,6 +17,15 @@ Welcome to the 30 Days of JavaScript Projects repository! This challenge involve
 <img src="https://github.com/codeyumm/JS-30-Days/blob/6d9f6610c715a9d6adae4bff358b323e8b955e39/Day%203%20-%20Digital%20clock/images/thumbnail.png" width="800" height="400" />
 - Digital Clock created with JavaScript
 
+### Day 4 - [CSS Variable with JS](https://github.com/codeyumm/JS-30-Days/tree/0d29ff505c66fdfcaeb189c1a42b57a39018228e/Day%204%20-%20CSS%20Variables%20with%20JS)
+<img src="https://github.com/codeyumm/JS-30-Days/blob/0d29ff505c66fdfcaeb189c1a42b57a39018228e/Day%204%20-%20CSS%20Variables%20with%20JS/images/thumbnail.png"/>
+- Change some propertise of CSS with JS
+- User can change image blur, spacing and base color with slider
+
+
+### Day 3 - []()
+<img src=""/>
+
 
 
 ## How to Use
