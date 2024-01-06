@@ -22,6 +22,12 @@ Welcome to the 30 Days of JavaScript Projects repository! This challenge involve
 - Change some propertise of CSS with JS
 - User can change image blur, spacing and base color with slider
 
+### Day 5 - [Hover board](https://github.com/codeyumm/JS-30-Days/tree/3fd89dd3e16fed5271d3c645a0a560560da43ea4/Day%205%20-%20Hover%20board)
+<img src="https://github.com/codeyumm/JS-30-Days/blob/3fd89dd3e16fed5271d3c645a0a560560da43ea4/Day%205%20-%20Hover%20board/images/thumbnail.png"  width="800" height="400" />
+- Created hover board
+  
+- Effect on small grid square when user hover on grid
+
 
 ### Day 3 - []()
 <img src=""  width="800" height="400" />
