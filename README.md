@@ -35,6 +35,9 @@ Welcome to the 30 Days of JavaScript Projects repository! This challenge involve
 
 ### Day 7 - [Word counter](https://github.com/codeyumm/JS-30-Days/tree/c66acbf9eabf16b5d60e4a066740c9be9695a40e/Day%207%20-%20Word%20counter)
 <img src="https://github.com/codeyumm/JS-30-Days/blob/c66acbf9eabf16b5d60e4a066740c9be9695a40e/Day%207%20-%20Word%20counter/images/thumbnail.png"  width="800" height="400" />
+- Word counter that counts char with space and without space also counts words
+
+
 
 ### Day 3 - []()
 <img src=""  width="800" height="400" />
