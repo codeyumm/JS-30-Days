@@ -1,0 +1,54 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: #D6D58E;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+main{
+
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 24px;
+    padding: 12px;
+}
+
+.result-container{
+    display: flex;
+    gap: 60px;
+}
+
+.result{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #042940;
+}
+
+.result p{
+    font-size: 24px;
+}
+
+h2{
+    margin: 0;
+}
+
+#textInput{
+    resize: none;
+    font-size: 24px;
+    border: 12px solid #042940;
+    border-radius: 12px;
+}

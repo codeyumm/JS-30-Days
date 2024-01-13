@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Counter</title>
+
+    <!-- linking css file -->
+    <link rel="stylesheet" href="./css/style.css">
+
+</head>
+<body>
+
+    <main>
+        <div class="container">
+            <textarea name="textInput" id="textInput" cols="80" rows="10"></textarea>
+            
+            <div class="result-container">
+
+                <div class="words result">
+                    <h2>Words</h2>
+                    <p id="totalWords">0</p>
+                </div>
+
+                <div class="chars result">
+                    <h2>Chars (without space)</h2>
+                    <p id="totalChars">0</p>
+                </div>
+
+                <div class="chars result">
+                    <h2>Chars (with space)</h2>
+                    <p id="totalCharsWithSpace">0</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+
+    <!-- linking js file -->
+    <script src="./js/script.js"></script>
+</body>
+</html>
