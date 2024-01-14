@@ -5,7 +5,7 @@ Welcome to the 30 Days of JavaScript Projects repository! This challenge involve
 ## Project List
 
 ### Day 1 - [Analog Clock](https://github.com/codeyumm/JS-30-Days/tree/main/Day-1-Clock)
-<img src="https://github.com/codeyumm/JS-30-Days/blob/main/Day-1-Clock/images/clock-thumbnail.png" width="800" height="400" />
+<img src="https://github.com/codeyumm/JS-30-Days/blob/c66acbf9eabf16b5d60e4a066740c9be9695a40e/Day%201%20-%20Analog%20Clock/images/clock-thumbnail.png" width="800" height="400" />
 - Created analog clock with HTML, CSS and JS.
 
 ### Day 2 - [Random Color Generator](https://github.com/codeyumm/JS-30-Days/tree/62eadde0eb45c8f689d8955fc9482e66973e8710/Day%202%20-%20Random%20Color%20Generator)
@@ -27,6 +27,16 @@ Welcome to the 30 Days of JavaScript Projects repository! This challenge involve
 - Created hover board
   
 - Effect on small grid square when user hover on grid
+
+
+### Day 6 - [Canvas resize](https://github.com/codeyumm/JS-30-Days/tree/c66acbf9eabf16b5d60e4a066740c9be9695a40e/Day%205%20-%20Canvas%20resize)
+<img src=""  width="800" height="400" />
+
+
+### Day 7 - [Word counter](https://github.com/codeyumm/JS-30-Days/tree/c66acbf9eabf16b5d60e4a066740c9be9695a40e/Day%207%20-%20Word%20counter)
+<img src="https://github.com/codeyumm/JS-30-Days/blob/c66acbf9eabf16b5d60e4a066740c9be9695a40e/Day%207%20-%20Word%20counter/images/thumbnail.png"  width="800" height="400" />
+- Word counter that counts char with space and without space also counts words
+
 
 
 ### Day 3 - []()
