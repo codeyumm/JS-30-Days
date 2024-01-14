@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Border generator</title>
+
+    <!-- linking css file -->
+    <link rel="stylesheet" href="./css/style.css">
+
+</head>
+<body>
+    
+    <main>
+
+
+        
+        <div class="container">
+
+
+
+
+            <div class="input-container">
+
+                <div class="input-wrapper">
+
+                    <label for="borderWidth">Border Width</label>
+                    <input type="range" name="border-width" id="borderWidth" data-sizing="px" min="1" max="200" class="userInput" value="0" >
+                
+                </div>
+
+                <div class="input-wrapper">
+
+                    <label for="borderType">Border Width</label>
+                    <select name="border-type" id="borderType" class="userInput">
+                        <!-- <option value="none">None</option> -->
+                        <option value="solid">Solid</option>
+                        <option value="dotted">Dotted</option>
+                        <option value="dashed">Dashed</option>
+                        <option value="double">Double</option>
+                        <option value="groove">Groove</option>
+                        <option value="ridge">Ridge</option>
+                        <option value="inset">Inset</option>
+                        <option value="outset">Outset</option>
+                        <option value="hidden">Hidden</option>
+                    </select>
+
+                </div>
+
+                
+                <div class="input-wrapper">
+
+                    <label for="borderColor">Border Width</label>
+                    <input type="color" name="border-color" id="borderColor" class="userInput">
+                
+                </div>
+
+            </div>
+
+            <div class="result-container">
+                <div id="result"></div>
+
+                <div class="genrated-border-container">
+                    <div class="genrated-border">
+                        <p>Copy border css from here</p>
+                        <img src="./images/copy.png" alt="Copy icon image" class="icon-copy">
+                    </div>
+                </div>
+
+                <div class="feedback-container">
+                    <p>Border CSS copied to clipboard!</p>
+                </div>
+            </div>
+
+
+   
+
+        </div>
+
+  
+        
+
+    </main>
+
+
+    
+    <!-- linking js file -->
+    <script src="./js/script.js"></script>
+</body>
+</html>
