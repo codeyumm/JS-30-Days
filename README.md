@@ -37,6 +37,11 @@ Welcome to the 30 Days of JavaScript Projects repository! This challenge involve
 <img src="https://github.com/codeyumm/JS-30-Days/blob/c66acbf9eabf16b5d60e4a066740c9be9695a40e/Day%207%20-%20Word%20counter/images/thumbnail.png"  width="800" height="400" />
 - Word counter that counts char with space and without space also counts words
 
+### Day 8 - [CSS Border genrator](https://github.com/codeyumm/JS-30-Days/tree/4a622132313bee97b22734daa9bf49f43cbd7149/Day%208%20-%20CSS%20Border%20generator)
+<img src="https://github.com/codeyumm/JS-30-Days/blob/4a622132313bee97b22734daa9bf49f43cbd7149/Day%208%20-%20CSS%20Border%20generator/images/thumbnail.png"  width="800" height="400" />
+- CSS border genrator to genrate border dynamically
+- User can select border width, type and color.
+  
 
 
 ### Day 3 - []()
